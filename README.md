@@ -5,8 +5,7 @@
 
 - 🌎 Finalista mundial do NASA Space Apps Challange (2019)
 - 🏅 2x top 100 BR - Maratona Behind The Code - IBM (2019, 2020)
-- ⚙️ Uso no meu dia a dia:
-  <div align="center" style="background: #f0f0f0; border-radius: 7px; width: 450px; margin-left: 25px">
+- ⚙️ Uso no meu dia a dia: 
     <img align="center" alt="Gabriel-linux" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img align="center" alt="Gabriel-js" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Gabriel-ts" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -21,16 +20,13 @@
     <img align="center" alt="Gabriel-docker" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
     <img align="center" alt="Gabriel-git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Gabriel-aws" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  </div>
 - ⚙️ E também uso nas horas vagas:
-  <div align="center" style="background: #f0f0f0; border-radius: 7px; width: 210px; margin-left: 25px; padding: 5px 0px">
     <img align="center" alt="Gabriel-nestjs" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
     <img align="center" alt="Gabriel-nextjs" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
     <img align="center" alt="Gabriel-python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
     <img align="center" alt="Gabriel-arduino" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
     <img align="center" alt="Gabriel-electron" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
     <img align="center" alt="Gabriel-jupyternotebook" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  </div>
 - 😄 Curiosidade: Meus amigos costumam em chamar só de Fiorese
 
 <br/>
