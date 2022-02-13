@@ -1,6 +1,5 @@
 ## Olá, eu sou o Gabriel Fiorese 👋
 
-#
 
 #### ⚡ Um pouco sobre mim:
 
